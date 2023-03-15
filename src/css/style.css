@@ -1,0 +1,34 @@
+*{
+    font-family: sans-serif;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.secao-inner{
+    max-width: 70rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid 0.1rem black;
+    border-radius: 1rem;
+}
+
+h1{
+    font-size: 2rem;
+    margin-bottom: 5rem;
+}
+
+.teste01{
+ display: inline;
+}
+
+p{
+    display: inline;
+}
+
+h2{
+    margin-bottom: 2rem;
+    width: 100%;
+}
+
